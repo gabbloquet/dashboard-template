@@ -1,0 +1,16 @@
+.application-informations {
+
+  display: flex;
+  align-items: center;
+  padding: 1em;
+  border-bottom: 1px solid white;
+
+  img {
+    height: 3em;
+  }
+
+  h1 {
+    margin: 1em;
+    font-size: larger;
+  }
+}

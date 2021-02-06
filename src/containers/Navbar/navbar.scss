@@ -1,0 +1,14 @@
+@import '../../styles/basics/colors';
+@import '../../styles/basics/size';
+
+.navbar {
+  display: flex;
+  flex-direction: column;
+  background-color: $grey-dark-2;
+  width: $NAVBAR_SIZE;
+  color: white;
+
+  position: fixed;
+  top: 0;
+  bottom: 0;
+}
